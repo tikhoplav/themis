@@ -1,6 +1,6 @@
 # Themis
 
-> Author: (Vitaly Tikhoplav)[https://github.com/tikhoplav]
+> Author: [Vitaly Tikhoplav](https://github.com/tikhoplav)
 
 Themis is web application for bookkeeping. It uses best practices from IT world  
 to provide useful and selfseficient tools to simplify and automate accounting
