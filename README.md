@@ -3,7 +3,7 @@
 > Author: [Vitaly Tikhoplav](https://github.com/tikhoplav)
 
 Themis is web application for bookkeeping. It uses best practices from IT world  
-to provide useful and selfseficient tools to simplify and automate accounting
+to provide useful and selfseficient tools to simplify and automate accounting  
 processes for ordinary people bringing order into daily financial life.
 
 Themis app is named after the goddess of order and law from ancient Greek  
